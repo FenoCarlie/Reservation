@@ -14,5 +14,10 @@
     "save": "Enregistrer",
     "close": "Fermer",
     "booking": "Réservation"
+  },
+  "menu": {
+    "start": "Plat d'entrée",
+    "main": "Plat de résistance",
+    "dessert": "Dessert"
   }
 }

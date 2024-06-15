@@ -1,0 +1,32 @@
+.menuTabActive {
+  position: relative;
+  max-width: fit-content;
+}
+
+.menuTabActive::before {
+  position: absolute;
+  display: block;
+  content: " ";
+  bottom: 0;
+  transition: all 0.5s;
+  --tw-bg-opacity: 1;
+  width: 100%;
+  border: 1px solid rgb(100 116 139 / var(--tw-bg-opacity));
+}
+
+.menu-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.menu-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.menu-scrollbar::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+.menu-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

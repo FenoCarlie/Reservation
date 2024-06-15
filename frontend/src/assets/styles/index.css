@@ -3,6 +3,7 @@
 @import "./navBar.css";
 @import "./home.css";
 @import "./review.css";
+@import "./menu.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

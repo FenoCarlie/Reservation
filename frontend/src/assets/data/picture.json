@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "src": "../images/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup.jpg",
+    "size": "large"
+  },
+  {
+    "id": 2,
+    "src": "../images/chocolate-brownie-cake-with-scoop-ice-cream.jpg",
+    "size": "small"
+  },
+  {
+    "id": 3,
+    "src": "../images/delicious-goulash-stew-table.jpg",
+    "size": "medium"
+  },
+  {
+    "id": 4,
+    "src": "../images/fried-chicken-breast-with-vegetables-fruits.jpg",
+    "size": "small"
+  },
+  {
+    "id": 5,
+    "src": "../images/fried-shrimp-salad-with-lettuce-arugula-orange-tomato-walnut-dark-opal-basil.jpg",
+    "size": "large"
+  },
+  {
+    "id": 6,
+    "src": "../images/healthy-grilled-beef-caesar-salad-with-cheese-cherry-tomatoes-lettuce.jpg",
+    "size": "medium"
+  },
+  {
+    "id": 7,
+    "src": "../images/front-view-chocolate-dessert-glass-with-straw.jpg",
+    "size": "small"
+  },
+  {
+    "id": 8,
+    "src": "../images/tasty-fettuccine-pasta-dish-topped-with-grated-cheese-white-plate.jpg",
+    "size": "medium"
+  },
+  {
+    "id": 9,
+    "src": "../images/top-view-delicious-dessert-with-strawberries.jpg",
+    "size": "large"
+  }
+]

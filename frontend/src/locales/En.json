@@ -14,5 +14,10 @@
     "save": "Save",
     "close": "Close",
     "booking": "Booking"
+  },
+  "menu": {
+    "start": "Starter dish",
+    "main": "Main course",
+    "dessert": "Dessert"
   }
 }
