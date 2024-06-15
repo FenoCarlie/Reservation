@@ -6,8 +6,10 @@ import Reviews from "../pages/defaultLayout/Reviews";
 
 function DefaultLayout() {
   return (
-    <div className="w-full flex flex-col">
-      <Header />
+    <div className="w-full flex flex-col h-screen">
+      <section className="sticky top-0">
+        <Header />
+      </section>
       <Home />
       <Menu />
       <Reviews />

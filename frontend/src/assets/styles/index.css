@@ -1,0 +1,12 @@
+@import "./header.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: blueviolet;
+}
+
+.bgWhite {
+  background-color: #fff;
+}
