@@ -2,6 +2,17 @@
   "pages": {
     "home": "Home",
     "menu": "Menu",
-    "revue": "Revue"
+    "revue": "Review"
+  },
+  "button": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "next": "Next",
+    "prev": "Previous",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "close": "Close",
+    "booking": "Booking"
   }
 }

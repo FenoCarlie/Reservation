@@ -3,5 +3,16 @@
     "home": "Accueil",
     "menu": "Menu",
     "revue": "Avis"
+  },
+  "button": {
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "save": "Enregistrer",
+    "close": "Fermer",
+    "booking": "Réservation"
   }
 }

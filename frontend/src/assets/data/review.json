@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Emilie DUBOI",
+    "email": "emilie@gmail.com",
+    "stars": 4.5,
+    "review": "Excellent, les services étaient top."
+  },
+  {
+    "name": "Julien MARTIN",
+    "email": "julien.martin@example.com",
+    "stars": 3.8,
+    "review": "Bonne expérience globale, mais le service était un peu lent."
+  },
+  {
+    "name": "Sophie LEMAIRE",
+    "email": "sophie.lemaire@example.com",
+    "stars": 5.0,
+    "review": "Incroyable ! La nourriture était délicieuse et le personnel très sympathique."
+  },
+  {
+    "name": "Marc DURAND",
+    "email": "marc.durand@example.com",
+    "stars": 2.5,
+    "review": "Déçu par la qualité des plats. Le service était correct."
+  },
+  {
+    "name": "Claire RENAUD",
+    "email": "claire.renaud@example.com",
+    "stars": 4.2,
+    "review": "Très bon restaurant, ambiance agréable et plats savoureux."
+  },
+  {
+    "name": "Lucas BERTRAND",
+    "email": "lucas.bertrand@example.com",
+    "stars": 4.0,
+    "review": "Bonne cuisine, mais le prix est un peu élevé pour la qualité."
+  },
+  {
+    "name": "Marie LAFONT",
+    "email": "marie.lafont@example.com",
+    "stars": 3.5,
+    "review": "Service moyen, mais la nourriture était bonne."
+  },
+  {
+    "name": "Paul BERNARD",
+    "email": "paul.bernard@example.com",
+    "stars": 4.7,
+    "review": "Un des meilleurs restaurants que j'ai visités. Je recommande fortement."
+  },
+  {
+    "name": "Elodie MOREAU",
+    "email": "elodie.moreau@example.com",
+    "stars": 5.0,
+    "review": "Parfait ! Rien à redire, tout était parfait du début à la fin."
+  },
+  {
+    "name": "Antoine ROUX",
+    "email": "antoine.roux@example.com",
+    "stars": 4.3,
+    "review": "Très bon restaurant avec une ambiance chaleureuse."
+  }
+]

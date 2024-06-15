@@ -11,7 +11,7 @@ const LanguageSwitcher = ({ setSelectLanguageIsOpen }) => {
   };
 
   return (
-    <div className="px-10">
+    <div className="font-barlow text-lg">
       <button
         className="flex flex-row items-center mb-2 py-3"
         onClick={() => handleChangeLanguage("En")}

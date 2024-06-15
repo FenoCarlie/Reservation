@@ -1,12 +1,23 @@
 @import "./header.css";
+@import "./fonts.css";
+@import "./navBar.css";
+@import "./home.css";
+@import "./review.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background: blueviolet;
+/* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+.element::-webkit-scrollbar {
+  display: none;
 }
 
-.bgWhite {
-  background-color: #fff;
+/* Hide scrollbar for Firefox */
+.element {
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Ensure scrolling is still possible */
+.element {
+  overflow: scroll;
 }
